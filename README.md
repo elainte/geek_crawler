@@ -1,5 +1,5 @@
 # geek_crawler
-
+sync test v1
 最近极客时间有个活动，企业可以为每位员工免费领取3门课程。刚好我们公司领导也给我们申请了这个权益（没有领取的可以找领导说说帮忙弄一下，[活动地址](https://account.geekbang.org/biz/signin?redirect=https%3A%2F%2Fservice.geekbang.org%2Fdashboard%2Fhome%2F%3Futm_source%3Dfrontshow%26utm_medium%3Dwechat%26utm_campaign%3D316%26utm_term%3Dfrontend%26gk_source%3Dfrontshowwechat&gk_source=frontshowwechat&utm_source=frontshow&utm_medium=wechat&utm_campaign=316&utm_term=frontend)）。
 
 免费领取的课程只有30天有效期，因为工作日白天要正常上班，30天之内没法学完3门课程。所以就写了个脚本，将账号下所有可以看到的专栏课程自动保存到本地。
